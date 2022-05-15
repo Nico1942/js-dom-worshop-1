@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://Nico1942.github.io/js-dom-worshop1',
+    baseUrl: 'https://github.com/Nico1942/js-dom-worshop-1',
   },
 }
