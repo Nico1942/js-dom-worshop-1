@@ -1,5 +1,5 @@
 {
-  "homepage": "https//Nico1942.github.io/js-dom-workshop-1",
+  "homepage": "https://nico1942.github.io/js-dom-worshop-1",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
